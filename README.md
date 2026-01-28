@@ -1,5 +1,5 @@
 # HR-project
-A simple HR webpage that utilizes Mysql, Python, Flask, Html, and Css 
+A simple HR webpage that utilizes Mysql, Python, Flask,and HTML/CSS
 
 
 This is a screenshot of the HR webpage 
